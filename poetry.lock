@@ -944,7 +944,7 @@ notebook = ">=4.4.1"
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.8"
-content-hash = "ea544f907152bc0750e76fc199a04b15ce25760f7ea9601136bf0df9a531b1d4"
+content-hash = "893bfa36db7453ef4f91c4607a151e1d779fe794d84d8e6eae34ca34d1c40d5e"
 
 [metadata.files]
 anyio = [
