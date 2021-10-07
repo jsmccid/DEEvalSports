@@ -1,4 +1,4 @@
-playID,matchID,dateTime,eventTypeID,player
+playID,matchID,dateTime,matchEventTypeID,player
 PLID2,MID2,2021-04-11 10:06:00,goalfor,PID3
-PLID3,MID3,2021-04-11 10:20:30,goalfor,PID3
-PLID4,MID4,2021-04-12 14:15:12,foulagainst,PID2
+PLID3,MID2,2021-04-11 10:20:30,goalfor,PID3
+PLID4,MID3,2021-04-12 14:15:12,foulagainst,PID2

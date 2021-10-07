@@ -1,3 +1,7 @@
-formationID,typeFixNum,goalkeeper,positionOnePlayer,positionOneRole,positionTwoPlayer,positionTwoRole
-FID2,1,PID2,PID3,Forward,PID5,Fullback
-FID3,1,PID2,PID3,Fullback,PID5,Forward
+formationID,typeFixNum,player,position
+FID2,1,PID2,goalkeeper
+FID2,1,PID5,Fullback
+FID2,1,PID4,Forward
+FID3,1,PID2,Forward
+FID3,1,PID5,Fullback
+FID3,1,PID4,goalkeeper
