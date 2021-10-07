@@ -1,1 +1,3 @@
-,trainingEventTypeID,trainingEventDescription
+trainingEventTypeID,typeFixNum,trainingEventDescription
+bench,1,bench press x5
+sprint,1,25m sprint

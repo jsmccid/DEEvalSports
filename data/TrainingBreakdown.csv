@@ -1,1 +1,3 @@
-,breakdownID,dateTime,trainingEventTypeID,trainer,player,bestPerformance
+breakdownID,trainingSessionID,dateTime,trainingEventTypeID,trainer,player,bestPerformance
+TSBD2,TSID2,2021-07-22 12:00:00,bench,PID6,PID2,400
+TSBD3,TSID3,2021-06-12 06:30:00,sprint,PID6,PID3,20

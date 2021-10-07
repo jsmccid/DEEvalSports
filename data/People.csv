@@ -1,1 +1,6 @@
-,personID,nameFirst,nameLast,dateOfBirth,role,contractStart,contractEnd
+personID,nameFirst,nameLast,dateOfBirth,role,contractStart,contractEnd
+PID2,Peter,Parker,1980-11-09,player,2021-01-01,2023-02-02
+PID3,Tony,Stark,1960-05-17,player,2021-01-01,2023-02-02
+PID4,Nick,Fury,1950-04-13,coach,2020-01-01,2023-02-02
+PID5,Natasha,Romanoff,1970-08-12,player,2021-01-01,2023-02-02
+PID6,Charles,Xavier,1950-01-22,trainer,2020-01-01,2023-02-02

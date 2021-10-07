@@ -1,1 +1,5 @@
-,matchEventTypeID,matchEventDescription
+matchEventTypeID,typeFixNum,matchEventDescription
+goalfor,1.0,goal for our team
+goalagainst,1.0,goal against our team
+foulfor,,foul for our team
+foulagainst,,foula against our team
