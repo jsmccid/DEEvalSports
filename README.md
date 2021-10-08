@@ -4,7 +4,7 @@ take-home for data engineering role
 ## outputs
 ### 1. Domain Model
 
-[Domain Model Capture pdf](DEEval - domain-model.pdf)
+[Domain Model Capture pdf](DEEval%20-%20domain-model.pdf)
 
 Initially started with syntactic approach, identifying the key people / places / things and modelling narratives of use. After building some understanding, most narratives were player centric as this offered comparison between match and training performance. Moved to ideating dashboards that provided insights into the test narratives utilising identified classes and attributes.
 
